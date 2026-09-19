@@ -1,5 +1,4 @@
-# Task Database Schema
-
-| Task Name | Priority | Status | Due Date |
-|-----------|----------|--------|----------|
-| Sample Task | High | In Progress | 2026-06-01 |
+# Task Tracker
+| Task | Status | Priority | Due Date |
+|---|---|---|---|
+| Example Task | To Do | High | 2026-09-30 |
