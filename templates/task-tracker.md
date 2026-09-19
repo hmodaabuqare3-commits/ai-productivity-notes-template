@@ -1,5 +1,3 @@
-# Task Tracker Schema
-
-- **Backlog**: Ideas and upcoming items.
-- **In Progress**: Active execution items.
-- **Done**: Completed items.
+# Task Tracker
+- [ ] Task 1 (Priority: High)
+- [ ] Task 2 (Priority: Medium)
