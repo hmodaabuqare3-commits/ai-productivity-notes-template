@@ -1,3 +1,4 @@
-# AI Prompt Assistant Library
+# AI Prompt Pack
+
 1. **Task Summarizer**: "Summarize the following notes into 3 actionable bullet points..."
-2. **Weekly Review**: "Review my completed tasks and suggest improvements for next week..."
+2. **Content Refiner**: "Improve the clarity and professional tone of this text..."
