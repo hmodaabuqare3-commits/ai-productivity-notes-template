@@ -7,7 +7,8 @@
   3. 
 
 ## Schedule
-- 09:00 AM - 
-- 11:00 AM - 
-- 02:00 PM - 
-- 04:00 PM - 
+- 08:00 AM - Morning Routine & Review
+- 09:00 AM - Deep Work Block 1
+- 12:00 PM - Break & Rest
+- 01:00 PM - Deep Work Block 2
+- 04:00 PM - Review & Wrap up
