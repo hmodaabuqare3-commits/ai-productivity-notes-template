@@ -1,9 +1,13 @@
 # Daily Planner Template
-- Date: [YYYY-MM-DD]
-- Top 3 Priorities:
-  1. 
-  2. 
-  3. 
-- Time Blocking Schedule:
-  - 08:00 AM - 10:00 AM: Deep Work
-  - 10:00 AM - 12:00 PM: Meetings & Communication
+
+## Today's Focus
+- Priority 1: 
+- Priority 2: 
+- Priority 3: 
+
+## Schedule
+| Time | Task | Status |
+|---|---|---|
+| 09:00 - 10:00 | Deep Work / Coding | [ ] |
+| 10:00 - 11:00 | Review & Emails | [ ] |
+| 11:00 - 12:00 | Project Planning | [ ] |
