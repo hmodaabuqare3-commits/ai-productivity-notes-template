@@ -1,4 +1,3 @@
-# AI Prompt Library
-1. Summarize notes into actionable bullet points.
-2. Draft email response based on key points.
-3. Organize tasks by Eisenhower Matrix priority.
+# AI Prompt Assistant Library
+1. **Task Summarizer**: "Summarize the following notes into 3 actionable bullet points..."
+2. **Weekly Review**: "Review my completed tasks and suggest improvements for next week..."
