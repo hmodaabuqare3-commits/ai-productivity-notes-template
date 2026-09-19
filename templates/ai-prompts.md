@@ -1,4 +1,4 @@
-# AI Prompt Pack
+# AI Prompt Library for Productivity
 
-1. **Task Summarizer**: "Summarize the following notes into 3 actionable bullet points..."
-2. **Content Refiner**: "Improve the clarity and professional tone of this text..."
+1. **Task Breakdown**: "Break down the following project into 5 clear actionable steps: [Insert Project]"
+2. **Weekly Review**: "Summarize my focus areas and suggest top priorities based on: [Insert Notes]"
