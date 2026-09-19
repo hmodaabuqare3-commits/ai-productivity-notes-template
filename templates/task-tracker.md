@@ -1,3 +1,5 @@
 # Task Tracker
-- [ ] Task 1 (Priority: High)
-- [ ] Task 2 (Priority: Medium)
+
+| Task Name | Priority | Status | Due Date |
+|-----------|----------|--------|----------|
+| Sample Task| High    | To Do  | 2026-09-20|
