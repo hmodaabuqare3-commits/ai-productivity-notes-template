@@ -1,12 +1,13 @@
 # Daily Planner Template
 
 ## Today's Focus
-- [ ] Primary Goal 1: 
-- [ ] Primary Goal 2: 
+- Priority 1: 
+- Priority 2: 
+- Priority 3: 
 
 ## Schedule
-| Time | Task / Activity | Status |
+| Time | Task | Status |
 |---|---|---|
-| 08:00 - 10:00 | Deep Work | [ ] |
-| 10:00 - 12:00 | Project Execution | [ ] |
-| 13:00 - 15:00 | Review & Planning | [ ] |
+| 09:00 | Deep Work | Pending |
+| 12:00 | Break | Pending |
+| 14:00 | Review & Planning | Pending |

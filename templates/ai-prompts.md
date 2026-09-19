@@ -1,4 +1,4 @@
-# AI Prompts for Productivity
+# AI Prompt Library
 
-1. **Task Breakdown**: "Break down the following complex project into actionable sub-tasks with time estimates: [Insert Project]"
-2. **Email Drafting**: "Draft a polite and concise email responding to: [Insert Message]"
+1. **Content Summarizer**: "Summarize the following text into 3 key bullet points..."
+2. **Task Breakdown**: "Break down this complex project into actionable step-by-step tasks..."
