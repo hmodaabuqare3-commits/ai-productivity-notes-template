@@ -1,10 +1,12 @@
 # Daily Planner Template
-- Date: [YYYY-MM-DD]
-- Top 3 Priorities:
-  1. 
-  2. 
-  3. 
-- Schedule:
-  - 08:00 AM - 
-  - 12:00 PM - 
-  - 04:00 PM - 
+
+## Today's Focus
+- [ ] Primary Goal 1: 
+- [ ] Primary Goal 2: 
+- [ ] Primary Goal 3: 
+
+## Schedule
+- 08:00 AM - Deep Work / Focus Block
+- 12:00 PM - Break & Review
+- 02:00 PM - Execution / Tasks
+- 05:00 PM - Daily Wrap-up

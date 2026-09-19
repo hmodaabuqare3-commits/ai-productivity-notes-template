@@ -1,4 +1,5 @@
-# Task Tracker Database
+# Task Tracker Schema
+
 | Task Name | Priority | Status | Due Date |
 |-----------|----------|--------|----------|
-| Example Task | High | In Progress | 2026-06-01 |
+| Sample Task | High | In Progress | Today |
