@@ -1,16 +1,14 @@
-# Daily Planner Template
+# Daily Planner
 
-## Today's Date: YYYY-MM-DD
+- **Date**: [YYYY-MM-DD]
+- **Top 3 Priorities**:
+  1. 
+  2. 
+  3. 
 
-### Top 3 Priorities
-1. [ ] 
-2. [ ] 
-3. [ ] 
+## Schedule
+- 08:00 AM - 
+- 10:00 AM - 
+- 02:00 PM - 
 
-### Task List
-- [ ] Morning Review & Emails
-- [ ] Deep Work Session (2 hours)
-- [ ] Afternoon Wrap-up & Planning
-
-### Notes & Reflections
-- 
+## Notes & Reflections
