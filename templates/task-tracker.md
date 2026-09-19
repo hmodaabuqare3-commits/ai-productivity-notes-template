@@ -1,5 +1,4 @@
 # Task Tracker
-
 | Task Name | Priority | Status | Due Date |
 |-----------|----------|--------|----------|
-| Sample Task| High    | To Do  | 2026-09-20|
+| Example Task | High | In Progress | 2026-09-20 |
