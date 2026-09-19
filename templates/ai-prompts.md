@@ -1,3 +1,3 @@
-# AI Prompts
-1. Summarize notes
-2. Draft email
+# AI Prompt Library
+- Summarization: "Summarize the following text into 3 key bullet points..."
+- Brainstorming: "Provide 5 creative solutions for..."
