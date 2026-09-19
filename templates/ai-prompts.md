@@ -1,4 +1,5 @@
-# AI Prompts for Productivity
+# AI Productivity Prompts
 
-1. **Task Prioritization Prompt:** "Act as an expert productivity coach. Review the following task list and organize them using the Eisenhower Matrix..."
-2. **Weekly Review Prompt:** "Act as an accountability partner. Help me analyze my weekly wins and bottlenecks based on this log..."
+1. Summarize meeting notes into key bullet points.
+2. Outline a project plan for a digital product.
+3. Rewrite text to be more concise and professional.
