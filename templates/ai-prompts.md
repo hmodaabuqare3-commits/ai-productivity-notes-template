@@ -1,4 +1,4 @@
 # AI Prompt Library
-
-1. **Content Summarizer**: "Summarize the following text into 3 key bullet points..."
-2. **Task Breakdown**: "Break down this complex project into actionable step-by-step tasks..."
+1. Summarize notes into actionable bullet points.
+2. Draft email response based on key points.
+3. Organize tasks by Eisenhower Matrix priority.
