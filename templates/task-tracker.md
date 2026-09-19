@@ -1,4 +1,5 @@
-# Task Tracker
-| Task | Status | Priority | Due Date |
-|---|---|---|---|
-| Example Task | To Do | High | 2026-09-30 |
+# Task Tracker Schema
+
+| Task Name | Priority | Status | Due Date |
+|-----------|----------|--------|----------|
+| Sample Task| High    | To Do  | Today    |
